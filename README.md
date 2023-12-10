@@ -27,3 +27,9 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+## Bullshit I've Added
+
+I litteraly have no idea what I'm doing
+
+
